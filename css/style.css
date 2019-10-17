@@ -1,0 +1,52 @@
+.container-1{
+	font-family: 'Modak', cursive;
+}
+.animation-left {
+	background-color: black;
+	background: cover;
+	height: 100%;
+
+}
+
+.animation-left img{
+	background-size: cover;
+
+}
+
+.colonne-titre {
+background-image: url(https://res.cloudinary.com/dijj1e23c/image/upload/c_scale,h_500,w_1420/v1571320065/fond_k0ri6d.jpg);
+background-repeat: no-repeat;
+width: 100%;
+}
+
+
+.colonne-titre h1 {
+	    font-family: 'Modak', cursive;
+    font-size: 155px;
+    font-weight: bold;
+    color: white;
+    opacity: 0.7;
+}
+.parallax {
+  
+  background-image: url("../images/meduse-yellow.jpeg");
+  min-height: 500px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gallery h2 {
+	font-weight: bold;
+	font-size: 55px;
+	color: #f7c552;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.card-image-1 img{
+	margin-top: 20px;
+	padding: 20px;
+	 box-shadow: 0 0 5px 3px 
+}
