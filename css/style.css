@@ -1,5 +1,5 @@
 .container-1{
-	font-family: 'Modak', cursive;
+	font-family: 'Fascinate Inline', cursive;
 }
 .animation-left {
 	background-color: black;
@@ -21,7 +21,7 @@ width: 100%;
 
 
 .colonne-titre h1 {
-	    font-family: 'Modak', cursive;
+	   
     font-size: 155px;
     font-weight: bold;
     color: white;
@@ -42,7 +42,7 @@ width: 100%;
 	font-size: 55px;
 	color: #f7c552;
 	margin-top: 30px;
-	margin-bottom: 30px;
+	margin-bottom: 50px;
 }
 
 .card-image-1 img{
@@ -50,3 +50,9 @@ width: 100%;
 	padding: 20px;
 	 box-shadow: 0 0 5px 3px 
 }
+
+.bar-menu-deroulant {
+ backdrop-filter:saturate(180%) blur(20px);
+  background-color: rgba(255,255,255,0.7);
+}
+
