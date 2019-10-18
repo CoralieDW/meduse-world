@@ -1,7 +1,11 @@
 const audio = new Audio("audio/bulles.mp3");
 
-document.addEventListener("scroll", (event) => {
- 
-audio.play();
+window.addEventListener("keyup", (event) => {
+	// console.log("en bas scrollY")
+	// console.log(window.scrollY)
+	// console.log("en bas innerHeight")
+	
 
+audio.play();
+	
 });
